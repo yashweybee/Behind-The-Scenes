@@ -1,5 +1,18 @@
 'use strict';
 
+// Coding Challenge
+// const arr = [17, 21, 23]
+// const arr2 = [12, 5, -5, 0, 4]
+
+// function printForeCast(arr) {
+//     for (const [i, value] of arr.entries())
+//         console.log(`${value}ºC in ${i + 1} days`);
+// }
+
+// printForeCast(arr)
+// printForeCast(arr2)
+
+///////////////////////////////////////////////////////////////
 // const firstName = "yash"
 // console.log(calaAge(2002));
 // function calaAge(year) {
